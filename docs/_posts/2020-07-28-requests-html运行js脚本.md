@@ -12,3 +12,8 @@ layout: post
 借助chromedrive执行js,方便于解决js加密问题
 
 
+更多实例可以访问
+https://cncert.github.io/requests-html-doc-cn/#/
+
+
+
